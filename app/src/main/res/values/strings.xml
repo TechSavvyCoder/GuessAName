@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Guess-A-Name</string>
+    <string name="btnGuess">Guess!</string>
+</resources>
